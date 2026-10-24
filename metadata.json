@@ -1,0 +1,6 @@
+{
+  "name": "Gatrans Management Operations System",
+  "description": "Gatrans Management Operations System - Airport Cargo Security & Dispatch Management with real-time X-ray triage, AVSEC validation, piece-level tracking, DO issuance, executive dashboards, and team messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
